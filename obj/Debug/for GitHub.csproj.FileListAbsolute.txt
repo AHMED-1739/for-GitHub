@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\stude\C#.stude\for GitHub\bin\Debug\for GitHub.exe.config
+C:\Users\user\Desktop\stude\C#.stude\for GitHub\bin\Debug\for GitHub.exe
+C:\Users\user\Desktop\stude\C#.stude\for GitHub\bin\Debug\for GitHub.pdb
+C:\Users\user\Desktop\stude\C#.stude\for GitHub\obj\Debug\for GitHub.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\stude\C#.stude\for GitHub\obj\Debug\for GitHub.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\stude\C#.stude\for GitHub\obj\Debug\for GitHub.exe
+C:\Users\user\Desktop\stude\C#.stude\for GitHub\obj\Debug\for GitHub.pdb
