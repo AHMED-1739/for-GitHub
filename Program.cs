@@ -47,7 +47,7 @@ namespace for_GitHub
         {
 
             Truck truck=new Truck("BMW","gaz","Disc");
-                           ///sdueubuhsaefd
+                       
             Car car1 = new Car("Mercedes", "Gasoline", 5);
 
             Console.WriteLine("the brand of my car is:{0}\nfuel type: {1} \nand it design for {2} peopel",car1.brand,car1.fuel_Type,car1.seating_capacity);
